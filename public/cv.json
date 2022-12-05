@@ -1,0 +1,109 @@
+{
+  "name": "Kim Andre Furevikstrand",
+  "roll": "Senior Developer",
+  "summary": "Experienced System Developer with a demonstrated history of working in the information technology and services industry. Skilled in Object-Oriented Programming (OOP), SQL, CSS, Java, PHP, JavaScript, and Typescript. I have experience with framework/library like React, Angular, Vuejs, Nodejs, Laravel",
+  "language": ["Norwegian", "Portuguese Brazil", "English"],
+  "skills": [
+    "React",
+    "Nest.JS",
+    "Typescript",
+    "CSS",
+    "CI/CD",
+    "Docker",
+    "Git",
+    "Linux",
+    "Angular",
+    "Vue.JS",
+    "VuePress",
+    "Laravel",
+    "Oracle Database",
+    "MySql",
+    "MsSql",
+    "Postgresql",
+    "Java",
+    "C#",
+    "Visual Basic"
+  ],
+  "contact": [
+    {
+      "description": "Whatsapp",
+      "value": "+55 (84) 9 9950-8696"
+    },
+    {
+      "description": "Email",
+      "value": "lozymon@gmail.com"
+    },
+    {
+      "description": "Linkedin",
+      "value": "https://www.linkedin.com/in/kim-andre-furevikstrand/"
+    }
+  ],
+  "experience": [
+    {
+      "description": "Web Developer",
+      "company": "Velit Tecnologia da Informação",
+      "start_date": "November 2014",
+      "end_date": "present",
+      "list": [
+        "Part of a development team on an ERP system for car parts",
+        "Created a server for Jasper reports",
+        "Created an internal back-end framework for building API faster",
+        "Created a Web Builder to faster convert the desktop system to web front-end and back-end / API",
+        "Creating and configuration of CI/CD for validation, test, and build of the web platform",
+        "Working with API",
+        "Working with front-end",
+        "Building complex components for or web platform",
+        "Building a live updater platform so that the client can update the web platform",
+        "Working with Docker ",
+        "Working with Oracle database",
+        "Maintains internal Gitlab server"
+      ]
+    },
+    {
+      "description": "Stock",
+      "company": "Teige Electro Company AS",
+      "start_date": "April 2010",
+      "end_date": "August 2012",
+      "list": ["Worked in a warehouse", "Maintenance of technical equipment"]
+    },
+    {
+      "description": "System  Developer, 3 line and technical support consultant",
+      "company": "Uni Micro AS",
+      "start_date": "January 2005",
+      "end_date": "November 2009",
+      "list": [
+        "Part of a development team for one of Norway's leading suppliers of technology and software for financial and accounting services",
+        "Technical support for clients with problems installing or configuring the product",
+        "3 lines of support where we analyze the problem or debug the problem with the clients",
+        "Building a Live Update server"
+      ]
+    },
+    {
+      "description": "Electrician",
+      "company": "Modalen Electro AS",
+      "start_date": "June 2003",
+      "end_date": "August 2004",
+      "list": [
+        "New house installation of electrical installations",
+        "Maintenance of electrical system",
+        "Worked with electrical systems and maintenance of electrical systems in tunnels"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "description": "Certificate electrician",
+      "company": "Bergen Maritime",
+      "start_date": "2001",
+      "end_date": "2002",
+      "list": ["Certificate electrician"]
+    },
+    {
+      "description": "Sound techniques line",
+      "company": "Manger Folkehøgskule",
+      "start_date": "2000",
+      "end_date": "2001",
+      "list": ["Learn to work in a sound studio"]
+    }
+  ]
+}
